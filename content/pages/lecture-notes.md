@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: e4c7985c-766a-2f9c-5bac-08869dd8bade
 ---
@@ -165,7 +168,7 @@ Solar cells and LEDs (light emitting diodes).
 9
 {{< tdclose >}}
 {{< tdopen >}}
-MOS capacitors: the DA applied to two-terminal MOS capacitor accumulation, depletion, and inversion; VFB, VT, QA, and QN
+MOS capacitors: the DA applied to two-terminal MOS capacitor accumulation, depletion, and inversion; V{{< sub "FB" >}}, V{{< sub "T" >}}, Q{{< sub "A" >}}, and Q{{< sub "N" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit6_012f09_lec09))
@@ -195,7 +198,7 @@ CCD Nobel Prize slides ([PDF]({{< baseurl >}}/resources/mit6_012f09_lec10_ccd))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Complete GC/DA model for iDS: saturation, channel length modulation. Output characteristics; regions of operation.
+Complete GC/DA model for i{{< sub "DS" >}}: saturation, channel length modulation. Output characteristics; regions of operation.
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit6_012f09_lec11))

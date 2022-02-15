@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: cee14a75-5724-ed6f-7695-af6a5d97687d
 ---
@@ -136,7 +139,7 @@ Sections 7.5 and 7.6
 9
 {{< tdclose >}}
 {{< tdopen >}}
-MOS capacitors: the DA applied to two-terminal MOS capacitor accumulation, depletion, and inversion; VFB, VT, QA, and QN
+MOS capacitors: the DA applied to two-terminal MOS capacitor accumulation, depletion, and inversion; V{{< sub "FB" >}}, V{{< sub "T" >}}, Q{{< sub "A" >}}, and Q{{< sub "N" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Sections 9.1, 9.2, 9.3, and 9.4
@@ -160,7 +163,7 @@ Sections 9.3 and 9.4; Section 10.1.1 (a)
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Complete GC/DA model for iDS: saturation, channel length modulation. Output characteristics; regions of operation.
+Complete GC/DA model for i{{< sub "DS" >}}: saturation, channel length modulation. Output characteristics; regions of operation.
 {{< tdclose >}}
 {{< tdopen >}}
 Section 10.1.1 (a)
