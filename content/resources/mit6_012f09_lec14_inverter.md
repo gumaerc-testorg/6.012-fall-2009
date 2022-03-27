@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e4c7985c-766a-2f9c-5bac-08869dd8bade
 resourcetype: Document
 title: Inverter Analysis and Design
 uid: 0eddab43-e246-fc2d-6236-8fe37516020c

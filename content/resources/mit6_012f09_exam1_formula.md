@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 4023a661-27dc-40df-ec6b-9fb469221263
 resourcetype: Document
 title: Formula Sheet for Exam One, Fall 2009
 uid: d4188477-c203-1371-931b-0ac68b034217

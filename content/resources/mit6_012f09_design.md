@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a93377e0-e95f-7a5f-8e5f-1a07e05635ce
 resourcetype: Document
 title: Special Problem on Circuit Design
 uid: 7fe6e516-7ac1-d990-3b18-8027b7caab19

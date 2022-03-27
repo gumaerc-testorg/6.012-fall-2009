@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 4023a661-27dc-40df-ec6b-9fb469221263
 resourcetype: Document
 title: Answers to Exam 2 - Spring 2006
 uid: 16d3e1b8-48de-c36c-fded-e18c9257289f

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 4023a661-27dc-40df-ec6b-9fb469221263
 resourcetype: Document
 title: Final Exam - Spring 2008
 uid: 08ef3448-dba8-ca29-a93a-880c9501c157

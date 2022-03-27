@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e4c7985c-766a-2f9c-5bac-08869dd8bade
 resourcetype: Document
 title: MOSFET Drain Current Modeling
 uid: d73e9baf-5e8d-a993-b795-6eab4adcf04a

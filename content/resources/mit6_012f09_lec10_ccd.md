@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e4c7985c-766a-2f9c-5bac-08869dd8bade
 resourcetype: Document
 title: CCD Nobel Prize slides
 uid: df03c0cc-8618-b09b-8712-1b6ee9f0eddb

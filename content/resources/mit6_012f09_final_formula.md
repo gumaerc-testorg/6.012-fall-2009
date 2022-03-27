@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 4023a661-27dc-40df-ec6b-9fb469221263
 resourcetype: Document
 title: Formula Sheet for the Final Exam, Fall 2009
 uid: 4e51bf07-7aaf-5937-9bc1-409f161dfa89

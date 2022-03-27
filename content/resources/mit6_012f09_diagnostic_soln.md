@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 2f970b13-bb63-16c5-f38b-8ce0b0c4de56
 resourcetype: Document
 title: Take Home Diagnostic Exercise
 uid: 76d81e87-e446-4212-26c4-9abfe3c693b4

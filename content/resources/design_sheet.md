@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a93377e0-e95f-7a5f-8e5f-1a07e05635ce
 resourcetype: Other
 title: Design Problem Answer Sheet
 uid: f9c12dc9-5694-2483-a867-c65c84476920

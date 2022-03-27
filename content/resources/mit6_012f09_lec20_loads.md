@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e4c7985c-766a-2f9c-5bac-08869dd8bade
 resourcetype: Document
 title: Two Active Loads for Differential Amplifiers
 uid: 27dce54a-63b9-a793-be54-2cb457d1c865

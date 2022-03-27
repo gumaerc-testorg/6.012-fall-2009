@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e4c7985c-766a-2f9c-5bac-08869dd8bade
 resourcetype: Document
 title: CMOS Gate Delays
 uid: c5d77f1b-bdd9-1687-cf41-73d3de2c6574

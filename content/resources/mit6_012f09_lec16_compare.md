@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e4c7985c-766a-2f9c-5bac-08869dd8bade
 resourcetype: Document
 title: 'CMOS Scaling Trends: Snapshots from 40 and 10 years ago'
 uid: 719d22a1-5339-646b-0c94-29ee6d5d6318

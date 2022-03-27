@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a93377e0-e95f-7a5f-8e5f-1a07e05635ce
 resourcetype: Document
 title: Spring 2006 Design Problem Circuit
 uid: 092242eb-6303-0c83-b72f-f18a0a628605

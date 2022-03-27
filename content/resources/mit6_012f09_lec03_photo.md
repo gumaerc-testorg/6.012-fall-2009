@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e4c7985c-766a-2f9c-5bac-08869dd8bade
 resourcetype: Document
 title: Comments on Photoconductive Detectors
 uid: 5c58a51e-629e-f050-5139-e7a4cf72f2fd
