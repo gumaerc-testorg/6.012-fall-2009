@@ -5,6 +5,7 @@ file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/0eddab43e246
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Inverter Analysis and Design
 uid: 0eddab43-e246-fc2d-6236-8fe37516020c
 ---
 Lecture handout on inverter analysis and design.
-

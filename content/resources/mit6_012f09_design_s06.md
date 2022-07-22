@@ -9,6 +9,7 @@ file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/092242eb6303
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Spring 2006 Design Problem Circuit
 uid: 092242eb-6303-0c83-b72f-f18a0a628605
 ---
 Slides prepared for the Spring 2006 6.012 students to accompany that semester's design problem. The circuit has similarities with this semester's design problem, and you may find these slides to be useful. The circuit details, device parameters, and performance specifications are different in the two design problems, but the slides are relevant just the same.
-

@@ -5,6 +5,7 @@ file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/08ef3448dba8
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Final Exam - Spring 2008
 uid: 08ef3448-dba8-ca29-a93a-880c9501c157
 ---
 Final exam on microelectronic devices and circuits.
-

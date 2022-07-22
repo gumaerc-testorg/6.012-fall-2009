@@ -5,6 +5,7 @@ file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/9316abd63cab
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Inverter Switching Transient Analysis
 uid: 9316abd6-3cab-09e5-4a7a-ce6606466725
 ---
 Lecture handout on inverter switching transient analysis.
-

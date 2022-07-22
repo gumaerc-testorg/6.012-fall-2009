@@ -5,6 +5,7 @@ file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/abf9880ee359
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Exam No. 2 - Fall 2009
 uid: abf9880e-e359-6164-f2cc-a16a9b14a6c6
 ---
 Exam on microelectronic devices and circuits.
-

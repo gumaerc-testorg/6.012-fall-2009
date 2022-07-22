@@ -5,6 +5,7 @@ file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/9fce7430fe6c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: The marvelous CASCODE
 uid: 9fce7430-fe6c-477c-2f61-9ddac1e7eb1a
 ---
 Lecture handout on the cascode two-stage amplifier.
-

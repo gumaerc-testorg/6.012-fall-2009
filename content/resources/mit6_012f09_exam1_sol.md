@@ -5,6 +5,7 @@ file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/12df3e5dc374
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Answers to Exam 1 - Fall 2009
 uid: 12df3e5d-c374-f56d-353f-8d4f1f121b8d
 ---
 Solutions to an exam on microelectronic devices and circuits.
-

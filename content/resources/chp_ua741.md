@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: "\xB5A741 operational amplifier"
 uid: b4e4e304-f002-5fab-ffcd-a4b8c0c0a347
 ---
 The µA741 operational amplifier, which is discussed in Lec #22. (? Source unknown. All rights reserved. This content is excluded from our Creative Commons license. For more information, see http://ocw.mit.edu/fairuse.)
-

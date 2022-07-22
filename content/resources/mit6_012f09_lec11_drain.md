@@ -5,6 +5,7 @@ file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/d73e9baf5e8d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MOSFET Drain Current Modeling
 uid: d73e9baf-5e8d-a993-b795-6eab4adcf04a
 ---
 Lecture handout on MOSFET drain current modeling.
-

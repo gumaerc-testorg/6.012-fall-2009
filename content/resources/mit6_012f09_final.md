@@ -5,6 +5,7 @@ file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/49456ba2c176
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Final Exam - Fall 2009
 uid: 49456ba2-c176-64f5-0b55-bf5edc621a71
 ---
 Final exam on microelectronic devices and circuits.
-

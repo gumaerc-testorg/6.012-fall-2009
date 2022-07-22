@@ -5,6 +5,7 @@ file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/eeb94eab00eb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: The Gradual Channel Approximation for the MOSFET
 uid: eeb94eab-00eb-b62a-3fde-0eec1484bc08
 ---
 Lecture handout on gradual channel approximation for MOSFETs.
-

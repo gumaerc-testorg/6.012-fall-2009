@@ -5,6 +5,7 @@ file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/e5bb2e9df7fa
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Formula Sheet for Exam Two, Fall 2009
 uid: e5bb2e9d-f7fa-d382-48a4-383dd9d8eb49
 ---
 Formula sheet for an exam on microelectronic devices and circuits.
-

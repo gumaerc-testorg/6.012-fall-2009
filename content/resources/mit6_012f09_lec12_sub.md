@@ -5,6 +5,7 @@ file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/d1575750e674
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'MOSFETs in the Sub-threshold Region (i.e. a bit below VT) '
 uid: d1575750-e674-6e5b-ccb2-3f27b5908322
 ---
 Lecture handout on sub-threshold modeling.
-

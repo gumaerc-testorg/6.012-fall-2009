@@ -5,6 +5,7 @@ file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/9181057dd1fc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: CMOS Gate Delays, Power, and Scaling
 uid: 9181057d-d1fc-8140-55e9-f56f32d91cfa
 ---
 Lecture handout on CMOS gate delays, power, and scaling.
-

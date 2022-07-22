@@ -5,6 +5,7 @@ file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/5c58a51e629e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Comments on Photoconductive Detectors
 uid: 5c58a51e-629e-f050-5139-e7a4cf72f2fd
 ---
 Lecture handout on photoconductive detectors.
-
