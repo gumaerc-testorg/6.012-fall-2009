@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the problem sets and design problems assigned for
+  the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: a93377e0-e95f-7a5f-8e5f-1a07e05635ce
 ---
@@ -25,7 +30,7 @@ FILES
 Problem set 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_012f09_assn01))
+({{% resource_link a68e2515-6eab-fde7-b8e2-dbe7374541f6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +39,7 @@ Problem set 1
 Problem set 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_012f09_assn02))
+({{% resource_link 8e709672-718b-39d7-1c60-4bf0fa27c7b0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +48,7 @@ Problem set 2
 Problem set 3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_012f09_assn03))
+({{% resource_link 1ee09536-58a1-fe7b-8484-a7c379f26629 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +57,7 @@ Problem set 3
 Problem set 4
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_012f09_assn04))
+({{% resource_link 36d966f1-0ebe-72fe-06eb-a0ec0897b0de "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +66,7 @@ Problem set 4
 Problem set 5
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_012f09_assn05))
+({{% resource_link 3f08ed11-9231-f5dc-53c2-605319916710 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +75,7 @@ Problem set 5
 Problem set 6
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_012f09_assn06))
+({{% resource_link a35a8420-3ab6-ab12-edb2-d9cee983a765 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +84,7 @@ Problem set 6
 Problem set 7
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_012f09_assn07))
+({{% resource_link 5e550830-b1ea-0058-9a3e-88fb4fb021d6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +93,7 @@ Problem set 7
 Problem set 8
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_012f09_assn08))
+({{% resource_link 24b3d79e-ca22-4775-3164-2d246cf5e2f8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +102,7 @@ Problem set 8
 Problem set 9
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_012f09_assn09))
+({{% resource_link d740ee0e-292b-1ef5-6694-da5c088de590 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +111,7 @@ Problem set 9
 Problem set 10
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_012f09_assn10))
+({{% resource_link 9e7f2486-d77e-5422-7fb3-b678b87772e5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -134,7 +139,7 @@ FILES
 Design problem
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_012f09_design))
+({{% resource_link 7fe6e516-7ac1-d990-3b18-8027b7caab19 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -149,7 +154,7 @@ The performance parameters of your design should be entered on this answer sheet
 
 {{< tdclose >}}
 {{< tdopen >}}
-([XLS]({{< baseurl >}}/resources/design_sheet))
+({{% resource_link f9c12dc9-5694-2483-a867-c65c84476920 "XLS" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,7 +169,7 @@ Slides prepared for the Spring 2006 6.012 students to accompany that semester's 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_012f09_design_s06))
+({{% resource_link 092242eb-6303-0c83-b72f-f18a0a628605 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

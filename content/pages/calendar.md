@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lecture topics, assignments,
+  and exams for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: b6b7b23a-f9d7-cf75-a62e-8db60e9369a7
 ---
@@ -162,7 +166,7 @@ Problem set 5 out
 9
 {{< tdclose >}}
 {{< tdopen >}}
-MOS capacitors: the DA applied to two-terminal MOS capacitor accumulation, depletion, and inversion; VFB, VT, QA, and QN
+MOS capacitors: the DA applied to two-terminal MOS capacitor accumulation, depletion, and inversion; V{{< sub "FB" >}}, V{{< sub "T" >}}, Q{{< sub "A" >}}, and Q{{< sub "N" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -192,7 +196,7 @@ Problem set 6 out
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Complete GC/DA model for iDS: saturation, channel length modulation. Output characteristics; regions of operation.
+Complete GC/DA model for i{{< sub "DS" >}}: saturation, channel length modulation. Output characteristics; regions of operation.
 {{< tdclose >}}
 {{< tdopen >}}
  

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the information on course meeting times,
+  handouts, readings, problem sets, tutorials, exams, design problems, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 2f970b13-bb63-16c5-f38b-8ce0b0c4de56
 ---
@@ -14,11 +18,11 @@ Recitations: 2 sessions / week, 1 hour / session
 Handouts
 --------
 
-List of topics covered ([PDF]({{< baseurl >}}/resources/mit6_012f09_topics))
+List of topics covered ({{% resource_link 5033f872-65b5-f4a0-5fce-64e5dc4246bc "PDF" %}})
 
-Diagnostic exercises ([PDF]({{< baseurl >}}/resources/mit6_012f09_diagnostic))
+Diagnostic exercises ({{% resource_link 3d47af35-0a68-4b09-28f1-d5237f788178 "PDF" %}})
 
-Solutions to diagnostic exercises ([PDF]({{< baseurl >}}/resources/mit6_012f09_diagnostic_soln))
+Solutions to diagnostic exercises ({{% resource_link 76d81e87-e446-4212-26c4-9abfe3c693b4 "PDF" %}})
 
 Readings
 --------
