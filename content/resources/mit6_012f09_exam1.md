@@ -2,6 +2,7 @@
 content_type: resource
 description: Exam on microelectronic devices and circuits.
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/1fb9235dfc00691ba90a59aea5196000_MIT6_012F09_exam1.pdf
+file_size: 359137
 file_type: application/pdf
 learning_resource_types:
 - Exams
