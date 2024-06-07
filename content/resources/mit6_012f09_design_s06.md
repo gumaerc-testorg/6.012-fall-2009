@@ -6,6 +6,7 @@ description: Slides prepared for the Spring 2006 6.012 students to accompany tha
   parameters, and performance specifications are different in the two design problems,
   but the slides are relevant just the same.
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/092242eb63030c83b72ff18a0a628605_MIT6_012F09_design_s06.pdf
+file_size: 542601
 file_type: application/pdf
 learning_resource_types:
 - Assignments
