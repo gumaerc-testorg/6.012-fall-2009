@@ -2,6 +2,7 @@
 content_type: resource
 description: Handout containing a list of topics covered by the course.
 file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/5033f87265b5f4a05fce64e5dc4246bc_MIT6_012F09_topics.pdf
+file_size: 89295
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
