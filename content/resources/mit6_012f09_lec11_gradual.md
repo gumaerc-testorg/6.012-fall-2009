@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout on gradual channel approximation for MOSFETs.
-file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/eeb94eab00ebb62a3fde0eec1484bc08_MIT6_012F09_lec11_gradual.pdf
+file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2009/eeb94eab00ebb62a3fde0eec1484bc08_MIT6_012F09_lec11_gradual.pdf
 file_size: 113979
 file_type: application/pdf
 learning_resource_types:

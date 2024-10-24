@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout on sub-threshold modeling.
-file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/d1575750e6746e5bccb23f27b5908322_MIT6_012F09_lec12_sub.pdf
+file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2009/d1575750e6746e5bccb23f27b5908322_MIT6_012F09_lec12_sub.pdf
 file_size: 1153610
 file_type: application/pdf
 learning_resource_types:

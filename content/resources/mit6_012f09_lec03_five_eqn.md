@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout on the five basic equations of semiconductor device physics.
-file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/d65b60631ae1d84dce7c0051412f0b7a_MIT6_012F09_lec03_five_eqn.pdf
+file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2009/d65b60631ae1d84dce7c0051412f0b7a_MIT6_012F09_lec03_five_eqn.pdf
 file_size: 211863
 file_type: application/pdf
 learning_resource_types:
