@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout on inverter switching transient analysis.
-file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2009/9316abd63cab09e54a7ace6606466725_MIT6_012F09_lec14_delays.pdf
+file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/9316abd63cab09e54a7ace6606466725_MIT6_012F09_lec14_delays.pdf
 file_size: 121505
 file_type: application/pdf
 learning_resource_types:

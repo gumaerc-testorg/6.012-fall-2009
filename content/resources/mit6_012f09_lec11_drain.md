@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout on MOSFET drain current modeling.
-file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2009/d73e9baf5e8da993b7956eab4adcf04a_MIT6_012F09_lec11_drain.pdf
+file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/d73e9baf5e8da993b7956eab4adcf04a_MIT6_012F09_lec11_drain.pdf
 file_size: 104737
 file_type: application/pdf
 learning_resource_types:
