@@ -2,7 +2,7 @@
 content_type: resource
 description: Diagnostic exercise on basic linear circuit analysis, linear differential
   equations, linearization about an operating point and simple electrostatics.
-file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2009/76d81e87e446421226c49abfe3c693b4_MIT6_012F09_diagnostic_soln.pdf
+file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/76d81e87e446421226c49abfe3c693b4_MIT6_012F09_diagnostic_soln.pdf
 file_size: 257668
 file_type: application/pdf
 learning_resource_types: []
