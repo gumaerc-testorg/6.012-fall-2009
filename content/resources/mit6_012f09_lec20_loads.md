@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture handout on two active loads for differential amplifiers: current
   mirror load and Lee load.'
-file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/27dce54a63b9a793be542cb457d1c865_MIT6_012F09_lec20_loads.pdf
+file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2009/27dce54a63b9a793be542cb457d1c865_MIT6_012F09_lec20_loads.pdf
 file_size: 164153
 file_type: application/pdf
 learning_resource_types:
