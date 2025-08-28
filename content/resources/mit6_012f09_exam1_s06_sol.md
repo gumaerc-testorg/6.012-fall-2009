@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to an exam on microelectronic devices and circuits.
-file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/0eb078baa49e2ae523de83a4329cecd4_MIT6_012F09_exam1_s06_sol.pdf
+file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2009/0eb078baa49e2ae523de83a4329cecd4_MIT6_012F09_exam1_s06_sol.pdf
 file_size: 114073
 file_type: application/pdf
 learning_resource_types:
