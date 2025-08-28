@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final exam on microelectronic devices and circuits.
-file: /courses/6-012-microelectronic-devices-and-circuits-fall-2009/49456ba2c17664f50b55bf5edc621a71_MIT6_012F09_final.pdf
+file: /ol-ocw-studio-app/courses/6-012-microelectronic-devices-and-circuits-fall-2009/49456ba2c17664f50b55bf5edc621a71_MIT6_012F09_final.pdf
 file_size: 397848
 file_type: application/pdf
 learning_resource_types:
