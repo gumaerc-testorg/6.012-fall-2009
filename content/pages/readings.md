@@ -11,7 +11,7 @@ uid: cee14a75-5724-ed6f-7695-af6a5d97687d
 
 The assigned readings are from the course textbook:
 
-Fonstad, Clifton. _Microelectronic Devices and Circuits_, 2006 Electronic Edition. Available online at [DSpace@MIT](http://dspace.mit.edu/handle/1721.1/34219).
+Fonstad, Clifton. _Microelectronic Devices and Circuits_, 2006 Electronic Edition. Available online at {{% resource_link "3d68b329-3a88-4b0d-a0f5-676da22d9f18" "DSpace@MIT" %}}.
 
 Abbreviations
 -------------
